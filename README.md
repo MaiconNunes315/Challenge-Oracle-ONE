@@ -12,4 +12,4 @@ Desafio de criar um codificador de texto que pode codificar textos novos e decod
 
 ### Funcionamento do projeto
 
-<img src="https://user-images.githubusercontent.com/88409912/210901510-7fe57fc7-87d7-4d22-8102-b0677eeb3a15.gif" width="500px" align="center"/>
+<img src="https://user-images.githubusercontent.com/88409912/210901510-7fe57fc7-87d7-4d22-8102-b0677eeb3a15.gif" width="800" align="center"/>
