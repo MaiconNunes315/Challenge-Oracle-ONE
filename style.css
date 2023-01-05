@@ -138,27 +138,39 @@ aside span{
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    width:100%;
+    height:auto;
 }
 
 .none{
     display:none;
 }
 
-aside p{
-    background-color:transparent;
+.active textarea{
+    outline:none;
+    border:0;
     font-size:24px;
     text-align:left;
-    
-    
+    margin-bottom:15px;   
+    resize:none;
+    color: #495057;
+    width:90%;
+   height:100vh;
+
 }
 
-aside button{
+.active textarea:disabled{
+    background-color:transparent;
+}
+
+.active button{
     padding:24px;
     border-radius:24px;
     width:90%;
     border: 1px solid #0A3871;
     background-color:transparent;
     height:67px;
+    cursor:pointer;
     
 }
 
@@ -179,11 +191,8 @@ aside{
     margin-top:50px;
 }
 
-aside p{
-    width:98%;
-}
 
-aside button{
+.active button{
     width:98%;
 }
 
@@ -215,6 +224,7 @@ section{
 
 .main-container textarea{
     height:80%;
+   
     
 }
 
