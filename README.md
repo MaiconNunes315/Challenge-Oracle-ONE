@@ -11,4 +11,5 @@ Desafio de criar um codificador de texto que pode codificar textos novos e decod
 - ``A letra "u" é convertida para "ufat"``
 
 ### Funcionamento do projeto
-![Projeto em funcionamento](https://user-images.githubusercontent.com/88409912/210901510-7fe57fc7-87d7-4d22-8102-b0677eeb3a15.gif)
+
+<img src="https://user-images.githubusercontent.com/88409912/210901510-7fe57fc7-87d7-4d22-8102-b0677eeb3a15.gif" width="500px" align="center"/>
