@@ -6,7 +6,7 @@ Desafio de criar um codificador de texto que pode codificar textos novos e decod
 <h2 align="center"><a href="https://maiconnunes315.github.io/Challenge-Oracle-ONE/">Projeto em funcionamento</a></h2>
 
 
-### Como rodar a aplicação no terminal digite... 
+### Como rodar a aplicação, no terminal digite... 
 
 ```sh
 git clone https://github.com/MaiconNunes315/jogo-genius.git
