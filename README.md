@@ -43,3 +43,14 @@ git clone https://github.com/MaiconNunes315/jogo-genius.git
 * HTML
 * CSS
 * Javascript
+
+## Author
+
+👤 **Maicon Nunes**
+
+- Github: [@MaiconNunes315](https://github.com/MaiconNunes315)
+- LinkedIn: [@Maicon Nunes](https://www.linkedin.com/in/maicon-nunes-978454110/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
