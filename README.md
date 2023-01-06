@@ -3,7 +3,7 @@
 
 Desafio de criar um codificador de texto que pode codificar textos novos e decodificar os textos que tenham sido codificados.
 
-<h2 align="center">[Projeto em funcionamento](https://maiconnunes315.github.io/Challenge-Oracle-ONE/)</h2>
+<h2 align="center"><a href="https://maiconnunes315.github.io/Challenge-Oracle-ONE/">Projeto em funcionamento</a></h2>
 
 
 ### Como rodar a aplicação: 
