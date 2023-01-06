@@ -3,6 +3,12 @@
 
 Desafio de criar um codificador de texto que pode codificar textos novos e decodificar os textos que tenham sido codificados.
 
+### Como rodar a aplicação: 
+
+```sh
+git clone https://github.com/MaiconNunes315/jogo-genius.git
+```
+
 ### As "chaves" de criptografia que utilizaremos são:
 - ``A letra "e" é convertida para "enter"``
 - ``A letra "i" é convertida para "imes"``
