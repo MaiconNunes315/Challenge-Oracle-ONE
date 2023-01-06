@@ -37,3 +37,9 @@ git clone https://github.com/MaiconNunes315/jogo-genius.git
 * Tela Smartphone
 
 ![smartphone](https://user-images.githubusercontent.com/88409912/210902485-b6fcd849-0206-4bd1-9ce5-7d3ec26368fc.png)
+
+### Linguagens utilizadas: 
+
+* HTML
+* CSS
+* Javascript
