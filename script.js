@@ -10,7 +10,7 @@ const copy = document.getElementById("copy");
 
 buttonEncrypt.onclick = ()=>{
     
-    const encrypt = textarea.value.replace(/a|e|i|o|u/gi, (value)=>{
+    const encrypt = textarea.value.toLowerCase().replace(/a|e|i|o|u/gi, (value)=>{
         if (value === "a") {
             return "ai"
         }else if(value === "e") {
@@ -32,7 +32,7 @@ buttonEncrypt.onclick = ()=>{
 
 buttonDescrypt.onclick = () => {
 
-    const descrypt = textarea.value.replace(/ai|enter|imes|ober|ufat/gi, (value)=>{
+    const descrypt = textarea.value.toLowerCase().replace(/ai|enter|imes|ober|ufat/gi, (value)=>{
         if (value === "ai") {
             return "a"
         }else if(value === "enter") {
