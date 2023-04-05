@@ -9,7 +9,7 @@ Desafio de criar um codificador de texto que pode codificar textos novos e decod
 ### Como rodar a aplicação, no terminal digite... 
 
 ```sh
-git clone https://github.com/MaiconNunes315/jogo-genius.git
+git clone https://github.com/MaiconNunes315/Challenge-Oracle-ONE
 ```
 
 ### As "chaves" de criptografia que utilizaremos são:
